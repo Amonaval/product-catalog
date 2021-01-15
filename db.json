@@ -1,0 +1,117 @@
+{
+    "categories": [{
+      "id": 1,
+      "name": "Laptops"
+    }, {
+      "id": 2,
+      "name": "Mobile"
+    }, {
+      "id": 3,
+      "name": "Speakers"
+    }],
+    "products": [{
+      "id": 1,
+      "name": "Lenovo",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "categoryId": 1
+    }, {
+      "id": 2,
+      "name": "Mac",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "categoryId": 1
+    }, {
+      "id": 3,
+      "name": "Dell",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "categoryId": 1
+    },{
+      "id": 4,
+      "name": "One plus 5",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "categoryId": 2
+    }, {
+      "id": 5,
+      "name": "Samsung Galaxy M31",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "categoryId": 2
+    }, {
+      "id": 6,
+      "name": "Redmi note 5 pro",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "JBL Flip 3",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }, {
+      "id": 8,
+      "name": "JBL Charge 4",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }, {
+      "id": 9,
+      "name": "BoAt Stone",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }
+  ],
+	"productsDetails": [{
+      "id": 1,
+      "name": "Lenovo",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "description": "Lenovo laptop",
+      "categoryId": 1
+    }, {
+      "id": 2,
+      "name": "Mac",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "description": "Mac laptop",
+      "categoryId": 1
+    }, {
+      "id": 3,
+      "name": "Dell",
+      "imageUrl":"../../assets/laptop/laptopS.jpg",
+      "description": "Dell Laptop",
+      "categoryId": 1
+    },{
+      "id": 4,
+      "name": "One plus 5",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "description": "One plus 5 mobile",
+      "categoryId": 2
+    }, {
+      "id": 5,
+      "name": "Samsung Galaxy M31",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "description": "Samsung galaxy m31 mobile",
+      "categoryId": 2
+    }, {
+      "id": 6,
+      "name": "Redmi note 5 pro",
+      "description": "Redmi note 5 pro mobile",
+      "imageUrl":"../../assets/mobile/mobile.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "JBL Flip 3",
+      "description": "JBL Flip 3 speaker",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }, {
+      "id": 8,
+      "name": "JBL Charge 4",
+      "description": "JBL Charge 4 speaker",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }, {
+      "id": 9,
+      "name": "BoAt Stone",
+      "description": "BoAt Stone speaker",
+      "imageUrl":"../../assets/speaker/speaker.png",
+      "categoryId": 3
+    }
+  ]
+}

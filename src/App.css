@@ -1,0 +1,50 @@
+.container {
+   margin: 50px;
+}
+
+.category-select-label{
+   font-weight: bold;
+   font-size: 14px;
+   display: inline;
+   margin-right: 10px;
+}
+.category-select-box{
+    float: left;
+}
+.category-select {
+   width: 200px;
+   cursor: pointer !important;
+}
+.container .product-list {
+    margin: 25px;
+    float: left;
+    width: 80%;
+ }
+
+ .container .product-list  .product-item{
+    margin: 25px;
+    float: left;
+ }
+
+ .container .product-list  .product-item{
+   float: left;
+}
+
+ .container .product-list  .prod-item-name {
+   font-size: 16px;
+   color: #222;
+   width: 100px;
+ }
+
+ /**************** Product Details **********************/
+
+ .product-details img {
+    float: left;
+ }
+.prod-detail{
+   display: inline-block;
+   font-weight: bold;
+   margin-right: 10px;
+   width: 150px;
+   text-align: right;
+}
